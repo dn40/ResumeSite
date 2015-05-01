@@ -30,7 +30,7 @@ img {
 }
 
 .jumbotron {
-    background: url("img/resumeimage (1).jpg") no-repeat;
+    background: url("../img/resumeimage (1).jpg") no-repeat;
     background-size: cover;
     height: 800px;
     font-size: 30px;
